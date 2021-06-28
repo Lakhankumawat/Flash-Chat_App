@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85549218823",
+    "project_id": "my-flash-chat-app-new",
+    "storage_bucket": "my-flash-chat-app-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85549218823:android:736e22c8615b3d3f97fea2",
+        "android_client_info": {
+          "package_name": "com.hoverit.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85549218823-i0a8b4fbijeidbt7gmh0ia524j77nmlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWwsTYDKQxJqblPbG8-40n8A5uAQytSvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85549218823-i0a8b4fbijeidbt7gmh0ia524j77nmlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
